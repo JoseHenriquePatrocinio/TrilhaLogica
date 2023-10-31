@@ -16,5 +16,9 @@ class Desafio6
         Console.WriteLine("Quantidade de latas: " + qtdeLatas);
         Console.WriteLine("Valor total: " + valorTotal);
 
+        double salarioBruto = 2;
+
+        double IR = salarioBruto * 0.11;
+
     }
 }
